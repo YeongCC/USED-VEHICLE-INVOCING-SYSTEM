@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+  csv_import.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+  interface.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\src\interface.cpp(111,66): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  manage_client.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+  manage_report.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+  manage_vehicle.cpp
+D:\Code\C++\DSTRASSIGN\DSTRASSIGN\include\csv.h(196,30): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+  Generating Code...
+  DSTRASSIGN.vcxproj -> D:\Code\C++\DSTRASSIGN\x64\Debug\DSTRASSIGN.exe
