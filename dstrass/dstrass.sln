@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dstrass", "dstrass\dstrass.vcxproj", "{FFF0713E-C130-4716-A7A2-BD62471B02B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Debug|x64.ActiveCfg = Debug|x64
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Debug|x64.Build.0 = Debug|x64
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Debug|x86.Build.0 = Debug|Win32
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Release|x64.ActiveCfg = Release|x64
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Release|x64.Build.0 = Release|x64
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Release|x86.ActiveCfg = Release|Win32
+		{FFF0713E-C130-4716-A7A2-BD62471B02B6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91845EE6-DD6A-4143-AB46-F15D84E07841}
+	EndGlobalSection
+EndGlobal

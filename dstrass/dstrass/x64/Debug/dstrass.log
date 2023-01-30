@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Code\C++\dstrass\dstrass\reportlist.h(49,21): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\Code\C++\dstrass\dstrass\reportlist.h(234,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Code\C++\dstrass\dstrass\main.cpp(53,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Code\C++\dstrass\dstrass\main.cpp(57,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dstrass.vcxproj -> D:\Code\C++\dstrass\x64\Debug\dstrass.exe
