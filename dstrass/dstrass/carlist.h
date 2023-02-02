@@ -102,8 +102,6 @@ struct CarList {
         int n = size; // number of elements in linked list
         Car* arr = new Car[n];
         Car* temp = head;
-        cout << " TEMP " << temp<<endl;
-        cout << temp->next << endl;
 
         for (int i = 0; i < n; i++) {
             arr[i] = *temp;
@@ -185,6 +183,13 @@ struct CarList {
                 cout << "----------------------------------------------------------------------" << endl << endl;
             }
         }
+    }
+
+    template <typename T>
+    void swap(T& a, T& b) {
+        T temp = a;
+        a = b;
+        b = temp;
     }
 
     //heap sort
