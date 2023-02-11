@@ -204,7 +204,7 @@ struct ReportList {
         else {
             while (curr != NULL) {
                 time_t t = curr->report_create_time; // convert to time_t   
-                cout << "Customer Name: £" << curr->customer << endl;
+                cout << "Customer Name: " << curr->customer << endl;
                 cout << "----------------------------------" << endl;
                 cout << "|| Id: " << curr->id << " || Customer Name: " << curr->customer << " || Created Time: " << asctime(localtime(&t)) << " || Car Id: " << curr->carid << " || Car Name: " << curr->title << " || Mileage: " << curr->mileage << " || Price: £" << curr->price << " || Registration Date: " << curr->registration_date << " || Fuel Type: " << curr->fuel_type << " || Transmission: " << curr->transmission << " || Engine Size: " << curr->engine_size << " || Doors: " << curr->doors << " || Colour: " << curr->colour << " || Body Type: " << curr->body_type << " || URL: " << curr->url << " || Sale Date: " << curr->sale_date << " ||" << endl;
                 cout << "----------------------------------------------------------------------" << endl;

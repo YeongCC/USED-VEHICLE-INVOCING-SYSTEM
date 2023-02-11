@@ -63,7 +63,7 @@ struct BillingtList {
         return true;
     }
 
-    //linear seearch
+    //linear search
     Billing* searchReportByCarId(string billingid) {
         Billing* current = head;
         while (current != nullptr) {
