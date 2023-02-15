@@ -232,7 +232,7 @@ void manage_report(){
 	string option;
 	cout << "Your Option: ";
 	cin >> option;
-	while (option != "1" && option != "2" && option != "3" && option != "4" && option != "5" && option != "6")
+	while (option != "1" && option != "2" && option != "3" && option != "4" && option != "5" && option != "6" && option != "7")
 	{
 		cout << "Your Option: " << endl;
 		cin >> option;
